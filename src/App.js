@@ -2,7 +2,7 @@ import "./App.css";
 
 import { useSelector } from "react-redux";
 
-import { Filter } from "./components/filter/Filter";
+/* import { Filter } from "./components/filter/Filter"; */
 import { Main } from "./components/main/Main";
 import { Alert } from "./components/main/alert/Alert";
 import { Navbar } from "./components/navbar/Navbar";
